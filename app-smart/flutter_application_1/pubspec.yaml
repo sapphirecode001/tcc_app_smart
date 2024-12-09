@@ -1,0 +1,47 @@
+name: flutter_application_1
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  badges: ^3.1.2
+  clippy_flutter: ^2.0.0-nullsafety.1
+  flutter_rating_bar: ^4.0.1
+
+cupertino_icons: ^1.0.8
+badges: ^3.1.2
+clippy_flutter: ^1.1.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  
+  assets:
+    - imagens/smartconfort2.png
+    - imagens/smartconfort1.png
+    - imagens/1.jpg
+    - imagens/2.jpg
+    - imagens/3.jpg
+    - imagens/4.jpg
+    - imagens/5.jpg
+    - imagens/6.jpg
+    - imagens/7.jpg
+    - imagens/smart.png
+    - imagens/caixa-aberta-cheia.png
+    - imagens/carteira.png
+    - imagens/dados_pessoais.png
+    - imagens/like_dislike_icon_240857.png
+    - imagens/perfil.png
+    - imagens/transit.png
+    - imagens/smartc.png
+    - imagens/teste.png
+    - imagens/ajuda.ico
